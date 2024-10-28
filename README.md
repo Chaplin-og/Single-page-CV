@@ -1,4 +1,6 @@
 The project outlines A single page with clear and concise details regarding my journey as a developer
+#project URL
+https://roadmap.sh/projects/single-page-cv
 #1 Outlines the title of the page
 <title>ONGUBO'S Cv </title>
 #2 Outlines the body and every personal detail included in the CV
